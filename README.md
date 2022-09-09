@@ -30,7 +30,7 @@ O seu back-end deverá implementar regras de negócio para popular adequadamente
 
 :arrow_right: O node deve ter versão igual ou superior à 16.15.0 LTS.
 
-:arrow_right: ) docker-compose deve ter versão igual ou superior àˆ1.29.2.
+:arrow_right: O docker-compose deve ter versão igual ou superior àˆ1.29.2.
 
 ### 🔧 Demonstração
 
@@ -53,10 +53,6 @@ Mencione as ferramentas que você usou para criar seu projeto
 * [Jest](https://jestjs.io/pt-BR/)
 * [Mocha](https://mochajs.org/)
 * [JWT](https://www.npmjs.com/package/jsonwebtoken)
-
-## 🖇️ Colaborando
-
-Por favor, leia o [COLABORACAO.md](https://gist.github.com/usuario/linkParaInfoSobreContribuicoes) para obter detalhes sobre o nosso código de conduta e o processo para nos enviar pedidos de solicitação.
 
 ## 📌 Versão
 
