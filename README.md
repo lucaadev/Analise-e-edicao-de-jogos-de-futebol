@@ -32,7 +32,7 @@ O seu back-end deverá implementar regras de negócio para popular adequadamente
 
 :arrow_right: O docker-compose deve ter versão igual ou superior àˆ1.29.2.
 
-### 🔧 Demonstração
+### 🔧 Demonstração - o carregamento costuma demorar.
 
 ![Demonstração](https://github.com/lucaadev/TFC/blob/main/Demonstra%C3%A7%C3%A3o.gif)
 
